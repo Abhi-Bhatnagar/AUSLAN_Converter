@@ -1,5 +1,8 @@
 # AUSLAN Fingerspelling Recognition
 
+Demo: 
+![Demo Video](Results/Fingerspelling.png)
+
 A computer vision project exploring real-time recognition of **Auslan (Australian Sign Language) fingerspelling** using machine learning.
 
 The goal of the project is relatively simple: take an image or camera frame containing an Auslan fingerspelling gesture and identify the corresponding letter.
@@ -176,7 +179,7 @@ The model is evaluated using several different measurements rather than relying 
 
 The training and validation curves are used to monitor how the model learns over time and to identify potential overfitting.
 
-![Training Accuracy and Loss](path/to/accuracy_loss.png)
+![Training Accuracy and Loss](Results/Accuracy:Loss.png)
 
 > Replace the path above with the filename of your uploaded graph.
 
@@ -188,7 +191,7 @@ The confusion matrix shows which Auslan classes are being confused with one anot
 
 This is particularly useful for fingerspelling because some handshapes are visually similar.
 
-![Confusion Matrix](path/to/confusion_matrix.png)
+![Confusion Matrix](Results/Confusion.png)
 
 > Replace the path above with the filename of your uploaded confusion matrix.
 
