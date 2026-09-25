@@ -2,7 +2,7 @@
 
 Demo: 
 [Watch the real-time Auslan recognition demo](Results/Fingerspelling.mov)
-![Real-time Auslan fingerspelling recognition](demo/auslan_demo.gif)
+![Real-time Auslan fingerspelling recognition](Results/Fingerspelling.gif)
 
 A computer vision project exploring real-time recognition of **Auslan (Australian Sign Language) fingerspelling** using machine learning.
 
