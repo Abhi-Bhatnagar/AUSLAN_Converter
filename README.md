@@ -1,7 +1,7 @@
 # AUSLAN Fingerspelling Recognition
 
 Demo: 
-![Demo Video](Results/Fingerspelling.png)
+![Demo Video](Results/Fingerspelling.mov)
 
 A computer vision project exploring real-time recognition of **Auslan (Australian Sign Language) fingerspelling** using machine learning.
 
