@@ -191,7 +191,7 @@ The confusion matrix shows which Auslan classes are being confused with one anot
 
 This is particularly useful for fingerspelling because some handshapes are visually similar.
 
-![Confusion Matrix](Results/Confusion.png)
+![Confusion Matrix](Results/Confusion_Matrix.png)
 
 > Replace the path above with the filename of your uploaded confusion matrix.
 
